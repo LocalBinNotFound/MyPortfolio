@@ -10987,8 +10987,8 @@ section.resume-section .resume-section-content {
   100% {
     background-position: 0 50%;
   }
+}
 
-}.custom-icon-container {
-   font-size: 50px;
-   color: #111111;
- }
+.grayscale-icon img{
+  filter: grayscale(100%);
+}
